@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.categories img {
+	width: 100px;
+}
+.pandaSlide .carousel-item {
+	background: #fceae8;
+	border-radius: 20px;
+}
+.pandaBtn {
+	color: white;
+	background: #f707eb !important;
+	border: 0;
+	border-radius: 4px;
+}
+.pandaCard {
+	border: 0;
+}
+.pandaFooter {
+	background: white;
+	border: 0;
+}
+input {
+	border: 0;
+}
+.stay {
+	background: -webkit-linear-gradient(#eee, #f707eb);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
